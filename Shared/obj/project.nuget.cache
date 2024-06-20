@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEX6maqc9wQ+SS2m38ytWXEgPkiq5R0+lwoXRFAD4nQmjCqyhNzVOYqldlDohF7CefLClUXKjb1zQ7BhlnTZ8w==",
+  "success": true,
+  "projectFilePath": "/home/darkiosys/Projects/dotnet/rabbitmq/masstransit/Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/darkiosys/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
